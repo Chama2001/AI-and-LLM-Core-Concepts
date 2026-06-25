@@ -8,4 +8,4 @@
 * [03. AI Agents vs Chatbots](./03-AI-Agents.md)
 * [04. Fine-Tuning vs RAG](./04-Fine-Tuning.md)
 * [05. Vector Databases (ChromaDB, Pinecone)](./05-Vector-Databases.md)
-
+* [06. LLM Evaluation & Hallucination (AI නිවැරදිභාවය මැනීම)](./06-LLM-Evaluation.md)
