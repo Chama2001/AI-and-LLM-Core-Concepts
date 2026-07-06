@@ -10,3 +10,4 @@
 * [05. Vector Databases (ChromaDB, Pinecone)](./05-Vector-Databases.md)
 * [06. LLM Evaluation & Hallucination (AI නිවැරදිභාවය මැනීම)](./06-LLM-Evaluation.md)
 * [07. Tokenization & Embedding Models (AI භාෂාව තේරුම් ගැනීම)](./07-Tokenization-and-Embeddings.md)
+* [08. AI Frameworks (LangChain vs LlamaIndex)](./08-AI-Frameworks.md)
