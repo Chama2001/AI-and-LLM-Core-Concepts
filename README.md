@@ -14,3 +14,4 @@
 * [09. Temperature vs Top-P (AI නිර්මාණශීලීත්වය පාලනය කිරීම)](./09-Temperature-and-TopP.md)
 * [10. Context Window & Token Limits (AI මතක සීමාව)](./10-Context-Window.md)
 * [11. Function Calling & Tool Use (AI බාහිර මෙවලම් භාවිතය)](./11-Function-Calling.md)
+* [12. LLM Quantization & Model Compression (AI ප්‍රමාණය කුඩා කිරීම)](./12-LLM-Quantization.md)
