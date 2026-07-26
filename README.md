@@ -16,3 +16,4 @@
 * [11. Function Calling & Tool Use (AI බාහිර මෙවලම් භාවිතය)](./11-Function-Calling.md)
 * [12. LLM Quantization & Model Compression (AI ප්‍රමාණය කුඩා කිරීම)](./12-LLM-Quantization.md)
 * [13. AI Guardrails & Safety (AI පද්ධති වල ආරක්ෂාව සැකසීම)](./13-AI-Guardrails.md)
+* [14. LLM Caching (Prompt & Semantic Caching)](./14-LLM-Caching.md)
