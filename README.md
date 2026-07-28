@@ -17,3 +17,4 @@
 * [12. LLM Quantization & Model Compression (AI ප්‍රමාණය කුඩා කිරීම)](./12-LLM-Quantization.md)
 * [13. AI Guardrails & Safety (AI පද්ධති වල ආරක්ෂාව සැකසීම)](./13-AI-Guardrails.md)
 * [14. LLM Caching (Prompt & Semantic Caching)](./14-LLM-Caching.md)
+* [15. Multimodal AI & VLMs (පින්තූර, වීඩියෝ සහ ශබ්ද තේරුම් ගැනීම)](./15-Multimodal-AI.md)
